@@ -54,15 +54,15 @@
 
 下图为本发明所提出的无人机系统单机组成结构：
 
-![图 1 单机系统组成]([media/image237.png](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/3.png))
+![图 1 单机系统组成](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/3.png)
 
 **图 1 单机系统组成**
 
 任务场景示意图如下：
 
-![图 2 任务场景示意图]([media/image238.png](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/1.png))
+![图 2 任务场景示意图](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/1.png)
 
 **图 2 任务场景示意图**
 
 仿真路线如下：
-![图 3 仿真路线图]([[media/image238.png](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/1.png)](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/2.png))
+![图 3 仿真路线图](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/2.png)
