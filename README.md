@@ -54,25 +54,15 @@
 
 下图为本发明所提出的无人机系统单机组成结构：
 
-![图 1 单机系统组成](media/image237.png)
+![图 1 单机系统组成]([media/image237.png](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/3.png))
 
 **图 1 单机系统组成**
 
 任务场景示意图如下：
 
-![图 2 任务场景示意图](media/image238.png)
+![图 2 任务场景示意图]([media/image238.png](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/1.png))
 
 **图 2 任务场景示意图**
 
-整体技术路线如下：
-
-```mermaid
-graph TD
-    A[任务参数输入] --> B[步骤1: 生成可行初始体系组合]
-    B --> C[步骤2: 构建动态调度模型]
-    C --> C1[OODA环状态监测]
-    C --> C2[混合事件驱动状态转移模型]
-    C --> C3[三级优先级轮换派遣策略]
-    B --> D[步骤3: 蒙特卡洛仿真评估]
-    D --> E[输出最优部署与轮换策略]
-    E --> F[智能诊断与建议]
+仿真路线如下：
+![图 3 仿真路线图]([[media/image238.png](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/1.png)](https://raw.githubusercontent.com/BuckToothCupid/UAV/refs/heads/main/Images(1)/2.png))
