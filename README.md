@@ -3,7 +3,7 @@
 <div align="center">
 
 ![专利状态](https://img.shields.io/badge/状态-已授予国家发明专利-blue)
-![技术领域](https://img.shields.io/badge/技术领域-无人机集群可靠性-后端开发仿真系统-green)
+![技术领域](https://img.shields.io/badge/技术领域-无人机集群可靠性/后端开发仿真系统-green)
 ![仿真方法](https://img.shields.io/badge/仿真-蒙特卡洛-orange)
 
 </div>
